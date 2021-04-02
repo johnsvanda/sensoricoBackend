@@ -1,0 +1,21 @@
+{
+  "name": "commonskyBackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crc": "^3.8.0",
+    "dotenv": "^8.2.0",
+    "edit-json-file": "^1.5.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.15",
+    "nodemon": "^2.0.7"
+  }
+}
